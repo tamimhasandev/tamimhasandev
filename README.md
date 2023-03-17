@@ -1,60 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 🏄‍♂️ Tamim Hasan
 
-###
+**`Software engineering student`**
 
-<p align="left">My name is Tamim Hasan and I'm a web developer, since 2020 </p>
-<div align="center">
-  <img height="auto" src="https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/320019962_1231655280781787_4872178711854131663_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHEEhh8YjGGPIQQmLm-qAl8DrOnvJ8QUCwOs6e8nxBQLMe_L3s8UcldZp7bS3w6kAcwjg_qOboKLjLTnkx25BpF&_nc_ohc=_1NvZyVnZEoAX8kr2Aj&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&oh=00_AfDWetdBr40uRzSZV84zkRPPx9WvBMaIF3iHQtGSYd0_oA&oe=6417464A"  />
-</div>
+I'm a Bangladeshi full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Tamim Hasan][youtube]" to more than 400k subscribers.
 
-###
+   <p align="left">
+      <a href="">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🧰 Languages and Tools
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
-</div>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-###
-<h2 align="left">I code with</h2>
+#
 
-###
+### Latest Project
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-</div>
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Coding won’t exist in 5 years? You might be right.](https://ytcards.demolab.com/?id=brAwZ5l_fuQ&title=Coding+won%E2%80%99t+exist+in+5+years%3F+You+might+be+right.&lang=en&timestamp=1678982010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=999 "Coding won’t exist in 5 years? You might be right.")](https://www.youtube.com/watch?v=brAwZ5l_fuQ)
+[![The story behind the name "Linux"](https://ytcards.demolab.com/?id=QjoKwulmS4U&title=The+story+behind+the+name+%22Linux%22&lang=en&timestamp=1678622419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=58 "The story behind the name \"Linux\"")](https://www.youtube.com/watch?v=QjoKwulmS4U)
+[![Tools EVERY Software Engineer Should Know](https://ytcards.demolab.com/?id=D4JkWoUovdo&title=Tools+EVERY+Software+Engineer+Should+Know&lang=en&timestamp=1678375804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=960 "Tools EVERY Software Engineer Should Know")](https://www.youtube.com/watch?v=D4JkWoUovdo)
+[![Linux almost didn’t exist](https://ytcards.demolab.com/?id=ewr-IKmTiYE&title=Linux+almost+didn%E2%80%99t+exist&lang=en&timestamp=1678021223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=48 "Linux almost didn’t exist")](https://www.youtube.com/watch?v=ewr-IKmTiYE)
+[![The Making of Linux: The World's First Open-Source Operating System](https://ytcards.demolab.com/?id=E0Q9KnYSVLc&title=The+Making+of+Linux%3A+The+World%27s+First+Open-Source+Operating+System&lang=en&timestamp=1677070808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "The Making of Linux: The World's First Open-Source Operating System")](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
+[![If you use ChatGPT to CHEAT, do this ONE THING!](https://ytcards.demolab.com/?id=Xffgj-RjOXw&title=If+you+use+ChatGPT+to+CHEAT%2C+do+this+ONE+THING%21&lang=en&timestamp=1676556019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=54 "If you use ChatGPT to CHEAT, do this ONE THING!")](https://www.youtube.com/watch?v=Xffgj-RjOXw)
+<!-- END YOUTUBE-CARDS -->
 
-###
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
-<br clear="both">
+#
 
-###
+### 📊 Stats
 
-<br clear="both">
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=tamimhasandev" height="150" alt="stats graph"  />
-</div>
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-###
-<br clear="both">
+#
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="stats graph"  />
-</div>
+<details>
+ <summary><h3>👨‍💻 Tamim's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
 
-###
+[website]: https://gizbird.com
+[youtube]: https://youtube.com/
