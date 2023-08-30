@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img src="https://tamim.bio/portfolio/images/coding.jpg" />
 <p></p>
 <p></p>
 <h1 align="center" >Hey, I'm Tamim 👋 </h1>
