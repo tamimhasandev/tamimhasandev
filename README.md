@@ -1,7 +1,7 @@
 <img src="https://tamim.bio/portfolio/images/coding.jpg" />
 <p></p>
 <p></p>
-<h1 align="center" >Hey, I'm Tamim 👋 </h1>
+<h1 align="center" >Hi, I'm Tamim Hasan 👋 </h1>
 
 🌟 Turning Coffee into Code since 2020
 
