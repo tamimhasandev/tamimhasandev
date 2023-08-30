@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tamimhasandev/tamimhasandev/main/web-dev.jpg" />
+<img src="https://tamim.bio/portfolio/images/coding.jpg" />
 <p></p>
 <p></p>
 <h1 align="center" >Hi, I'm Tamim Hasan 👋 </h1>
