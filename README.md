@@ -20,7 +20,7 @@ I'm not just a developer, I'm a digital artisan crafting online experiences that
 ## Reach Out
 
 📬 **Summon Me:** contact@tamim.bio
-🧙‍♂️ **Wizard's Den:** [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile) | [Twitter](https://twitter.com/yourprofile)
+🧙‍♂️ **Wizard's Den:** [LinkedIn](https://www.linkedin.com/in/tamimhasandev) | [GitHub](https://github.com/tamimhasandev) | [Twitter](https://twitter.com/tamimhasandev)
 
 Let's embark on a journey of creation and craft an online realm that wows the world! ✨
 
